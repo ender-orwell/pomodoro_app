@@ -1,0 +1,1 @@
+**App using python and tkinter to manage time using pomodoro technique.**
